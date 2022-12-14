@@ -146,6 +146,8 @@ Miller et al 1985 J Pediatr. 107:465-9 3/10 andas spontant delvis via munnen, 8/
   }
 </style>
 
+A prompt fall in heart rate was consistently seen when the cord was clamped before the onset of respiration, while no such change was seen in vigorous infants who began breathing before cord occlusion. A fall in rate was also seen in mildly depressed infants who cried only occasionally and were not breathing when the cord was clamped. The rapidity of change suggests that the mechanism is reflex in nature. -- Brady et al. AJOG 1962
+
 <!--
   Kompressioner försämrar ventilationen.
 
