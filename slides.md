@@ -65,14 +65,16 @@ Därför först elektroder
 
 ### Barn födda Malmö/Lund 2019
 
-|    | Malmö|  Lund|
-| födda |5338| 3649|  
-  |Apgar 5 min < 4| 26|  35|
-| Apgar 10 min < 4| 18| 23|
-|  HIE grad 1|  1| 4|
-|  HIE grad 2-3|  3|  5|
-|  hypotermi|  3| 3|
-|  död efter hypotermi| 1|  0|
+
+|                    | Malmö |  Lund |
+|--------------------|-------|-------|
+| födda              | 5338  |  3649 |  
+| Apgar 5 min < 4    | 26    |  35   |
+| Apgar 10 min < 4   | 18    | 23    |
+|  HIE grad 1        |  1    |     4 |
+|  HIE grad 2-3      |      3|     5 |
+|  hypotermi         |      3|     3 |
+| död efter hypotermi|      1|     0 |
 
 
   
