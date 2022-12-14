@@ -37,8 +37,8 @@ layout: image
 ---
 
 <img
-class="absolute top-0 h-full left-50"
-src="/neohlr_gs.png"
+  h="full" absolute top="0" left="70"
+  src="/neohlr_gs.png"
   />
 
 <!-- 
@@ -48,6 +48,30 @@ src="/neohlr_gs.png"
 
   Tydligare och tydligare.
 -->
+
+---
+layout: image
+---
+
+<img src="/ERC2019.png" h="full" m="auto" />
+
+<!--
+  De flesta barn behöver mycket lite hjälp
+
+  Data från European Resuscitation Council
+-->
+
+---
+layout: image
+---
+
+<img src="/Apgarkarta2019.png" h="140" m="x-auto" />
+
+---
+layout: image
+---
+
+<img src="/Dawson-sat.png" />
 
 ---
 
